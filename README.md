@@ -1,1 +1,1 @@
-First version on Flood It game.
+First version of Flood It game.
